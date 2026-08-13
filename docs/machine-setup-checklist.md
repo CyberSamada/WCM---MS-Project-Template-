@@ -25,7 +25,7 @@ These are user-level options the template cannot carry, so set them here:
 ## D. Sanity check (2 minutes)
 
 - [ ] New project from the WCM template.
-- [ ] Add a task, give it 3 days — it should land on working days only, 7:00 AM start (or the office's configured hours), and show as Auto Scheduled in the status bar.
+- [ ] Add a task, give it 3 days — it should land on working days only, 8:30 AM start, and show as Auto Scheduled in the status bar.
 - [ ] Add a second task, link it FS to the first (select both → Task tab → chain icon). Dragging task 1 should move task 2.
 - [ ] Check row 0 (project summary task) is visible.
 - [ ] Delete the test file.
